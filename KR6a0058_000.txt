@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿耨風經
+#+DATE: 2015-08-30 19:29:54.837773
+#+PROPERTY: JUAN 0
